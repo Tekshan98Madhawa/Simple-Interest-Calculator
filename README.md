@@ -1,2 +1,3 @@
 # Simple-Interest-Calculator
-This simple calculator designed with HTML , CSS and Javascript
+This simple interest calculator designed with HTML , CSS and Javascript.
+With this calculator you can calculate interest of a fixed deposit. 
